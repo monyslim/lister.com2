@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+
+.btn-primary{
+	background-color: white;
+	color: blue;
+}
+
+.container{
+	margin-top: 150px;
+}
+
+
+.adjust-10{
+	margin-top: 10px !important;
+}
+
+#search_form{
+	float: right;
+}
+
+
+#search_field_id{
+	height: 40px;
+	width: 400px;
+	margin-top: 5px;
+	margin-right: 20px;
+}
+
+
